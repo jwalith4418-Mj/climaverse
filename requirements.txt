@@ -1,0 +1,9 @@
+numpy>=1.26
+fastapi>=0.110
+uvicorn>=0.27
+pydantic>=2.0
+# ML backend (optional but recommended — pipeline falls back to baselines if absent):
+torch>=2.0
+# dev:
+pytest>=8.0
+httpx>=0.27

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+data/raw/*.grd
+.pytest_cache/
+.env
+.env.*
+*.log
+*.db
+*.db-wal
+*.db-shm
+*.sqlite*
